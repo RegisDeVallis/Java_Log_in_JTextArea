@@ -1,4 +1,4 @@
-Java_Log_in_JTextArea
+Java Log in JTextArea
 =====================
 
 This will set it so that you can display the Java log in a JTextArea. It will also automatically update the JTextArea. This is 
