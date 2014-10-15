@@ -10,10 +10,7 @@ import java.io.OutputStream;
 import java.io.PrintStream;
 import javax.swing.JTextArea;
 
-/**
- *
- * @author Dalen
- */
+
 public class TextAreaOutputStream extends OutputStream {  
     private static final TextAreaOutputStream INSTANCE = new TextAreaOutputStream();  
     private static final PrintStream OUT;  
